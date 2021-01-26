@@ -1,5 +1,4 @@
 ## __HealthDB ETL__ ##
----
 
 #### ETL and Database Interaction Tools for HealthDB
 <br />
@@ -16,7 +15,7 @@ __Where to get it:__
 The source code is currently hosted on GitHub at:
 https://github.com/jdeferio/healthdbETL
 
-Binary installers for the latest released version are _not_ currently available, but the package can be installed using either [Pip](https://pip.pypa.io/en/stable/), [Poetry](https://python-poetry.org) or a package manager of your chosing. 
+Binary installers for the latest released version are _not_ currently available, but the package can be installed using either [Pip](https://pip.pypa.io/en/stable/), [Poetry](https://python-poetry.org) or a package manager of your choosing. 
 
 ```sh
 # pip
