@@ -7,7 +7,7 @@ setup(
     name='healthdbETL',
     url='https://github.com/jdeferio/healthdbETL',
     author='Joseph Deferio',
-    author_email='josephjdeferio@gmail.com',
+    author_email='jdeferio.io@gmail.com',
     packages=['healthdbetl'],
     install_requires=[ 
         'sqlalchemy',

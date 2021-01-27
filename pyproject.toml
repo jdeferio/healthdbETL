@@ -2,7 +2,7 @@
 name = "healthdbETL"
 version = "0.1.0"
 description = "ETL and Database Interaction Tools for HealthDB"
-authors = ["Joseph Deferio <josephjdeferio@gmail.com>"]
+authors = ["Joseph Deferio <jdeferio.io@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
