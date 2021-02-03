@@ -1,8 +1,7 @@
 import itertools
 import logging
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import Session
+from util import connect_healthdb
 
 # set logging
 logging.basicConfig(level=logging.info)
